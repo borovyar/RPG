@@ -1,0 +1,23 @@
+1. Load world definition from the file:
+    I created special files with input ( "new levels" ) and file with savings. From "new_levels" and saving files I load my world  
+    and save progress of the player ( everything is saved );
+
+2. Provide interface for creating player character (attributes and skills):
+    I provided basic attributes of the player in RPG. Player has inventory, level ( with level ups ), equipment and e.g.;
+
+3. Implement simple combat system and inventory:
+    I implemented 2 classes for this task, CCombat and CBack_pack. Combat is going with some dialog, damage receiving and result. 
+    CBack_pack has vector of pointers to CItems and generally, player can add, delete, use items from his backpack. Also, inventory
+    uses in CChest implementation;
+
+4. Implement saving and loading running games to/from file:
+    I described it in 1 topic;
+
+My engine is turned-base game. I have pseudo-graphic and about 20-25 files in the projects ( without load/saving files )
+
+I created 3 super classes CItems, CEnemies and CTrap:
+    1) CItems have diffrent usage and effect on the player;
+    2) CEnemies have diffrent interplay in combats with player;
+    3) CTrap also have diffrent effect on the player;
+    Whole inherited classes have unique form of saving, unique printInfo method, some of them has clone() method, which returns
+    copy of *this;
