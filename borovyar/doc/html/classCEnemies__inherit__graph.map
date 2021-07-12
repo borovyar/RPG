@@ -1,0 +1,7 @@
+<map id="CEnemies" name="CEnemies">
+<area shape="rect" id="node2" href="$classCBoarW140.html" title="Boar inherited from Enemies. " alt="" coords="5,80,104,107"/>
+<area shape="rect" id="node3" href="$classCBoss.html" title="Boss inherited from Enemies. " alt="" coords="129,80,191,107"/>
+<area shape="rect" id="node4" href="$classCDragon.html" title="Dragon inherited from Enemies. " alt="" coords="215,80,294,107"/>
+<area shape="rect" id="node5" href="$classCPunk.html" title="Pank inherited from Enemies. " alt="" coords="318,80,381,107"/>
+<area shape="rect" id="node6" href="$classCSoldier.html" title="Soldier inherited from Enemies. " alt="" coords="405,80,481,107"/>
+</map>

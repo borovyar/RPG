@@ -1,0 +1,6 @@
+<map id="CItems" name="CItems">
+<area shape="rect" id="node2" href="$classCPotionD.html" title="PotionD inherited from Items. " alt="" coords="5,80,88,107"/>
+<area shape="rect" id="node3" href="$classCPotionH.html" title="PotionH inherited from Items. " alt="" coords="112,80,195,107"/>
+<area shape="rect" id="node4" href="$classCPotionL.html" title="PotionL inherited from Items. " alt="" coords="219,80,298,107"/>
+<area shape="rect" id="node5" href="$classCSword.html" title="Sword inherited from Items. " alt="" coords="322,80,393,107"/>
+</map>

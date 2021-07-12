@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCItems.html" title="CItems" alt="" coords="5,81,73,108"/>
+<area shape="rect" id="node2" href="$classCPotionD.html" title="PotionD inherited from Items. " alt="" coords="121,5,204,32"/>
+<area shape="rect" id="node3" href="$classCPotionH.html" title="PotionH inherited from Items. " alt="" coords="121,56,204,83"/>
+<area shape="rect" id="node4" href="$classCPotionL.html" title="PotionL inherited from Items. " alt="" coords="123,107,202,133"/>
+<area shape="rect" id="node5" href="$classCSword.html" title="Sword inherited from Items. " alt="" coords="127,157,198,184"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCEnemies.html" title="CEnemies" alt="" coords="5,107,92,133"/>
+<area shape="rect" id="node2" href="$classCBoarW140.html" title="Boar inherited from Enemies. " alt="" coords="140,5,239,32"/>
+<area shape="rect" id="node3" href="$classCBoss.html" title="Boss inherited from Enemies. " alt="" coords="158,56,221,83"/>
+<area shape="rect" id="node4" href="$classCDragon.html" title="Dragon inherited from Enemies. " alt="" coords="150,107,229,133"/>
+<area shape="rect" id="node5" href="$classCPunk.html" title="Pank inherited from Enemies. " alt="" coords="158,157,221,184"/>
+<area shape="rect" id="node6" href="$classCSoldier.html" title="Soldier inherited from Enemies. " alt="" coords="151,208,227,235"/>
+</map>

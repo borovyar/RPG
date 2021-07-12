@@ -1,0 +1,14 @@
+32
+1
+1
+When was the first edition of the C++ released?
+2
+1985
+one thousand nine hundred and eighty five
+4
+1
+Kozel
+4
+0
+2
+100

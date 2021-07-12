@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCTrap.html" title="CTrap" alt="" coords="5,56,64,83"/>
+<area shape="rect" id="node2" href="$classCBomb.html" title="Bomb is inherited from Trap. " alt="" coords="114,5,183,32"/>
+<area shape="rect" id="node3" href="$classCSnare.html" title="Snare is inherited from Trap. " alt="" coords="115,56,183,83"/>
+<area shape="rect" id="node4" href="$classCThorm.html" title="Thorm is inherited from Trap. " alt="" coords="112,107,185,133"/>
+</map>
